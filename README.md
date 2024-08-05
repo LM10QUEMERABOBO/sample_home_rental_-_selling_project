@@ -1,1 +1,1 @@
-# sample_home_rental_-_selling_project
+# sample_home_rental_and_selling_project
